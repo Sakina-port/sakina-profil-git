@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je suis Awa Sakina Magassouba 👋</h1>
+<h1 align="center">Bonjour, je suis Awa Barakissa Magassouba 👋</h1>
 <h3 align="center">Data Analyst — Finance & Gestion des Risques</h3>
 
 <p align="center">
